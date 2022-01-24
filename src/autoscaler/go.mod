@@ -31,7 +31,7 @@ require (
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/peterbourgon/g2s v0.0.0-20170223122336-d4e7ad98afea // indirect
 	github.com/pivotal-cf/brokerapi v6.4.2+incompatible
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.12.0
 	github.com/rubyist/circuitbreaker v2.2.1+incompatible
 	github.com/square/certstrap v1.2.0
 	github.com/tedsuo/ifrit v0.0.0-20191009134036-9a97d0632f00
@@ -39,7 +39,6 @@ require (
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
 	golang.org/x/net v0.0.0-20211108170745-6635138e15ea
 	golang.org/x/oauth2 v0.0.0-20210819190943-2bc19b11175f
-	golang.org/x/sys v0.0.0-20211109065445-02f5c0300f6e // indirect
 	golang.org/x/time v0.0.0-20210611083556-38a9dc6acbc6
 	google.golang.org/genproto v0.0.0-20211104193956-4c6863e31247 // indirect
 	google.golang.org/grpc v1.42.0

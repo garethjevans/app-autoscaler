@@ -37,11 +37,10 @@ require (
 	github.com/tedsuo/ifrit v0.0.0-20191009134036-9a97d0632f00
 	github.com/xeipuuv/gojsonschema v1.2.0
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
-	golang.org/x/net v0.0.0-20211108170745-6635138e15ea
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
 	golang.org/x/oauth2 v0.0.0-20210819190943-2bc19b11175f
-	golang.org/x/sys v0.0.0-20211109065445-02f5c0300f6e // indirect
 	golang.org/x/time v0.0.0-20210611083556-38a9dc6acbc6
 	google.golang.org/genproto v0.0.0-20211104193956-4c6863e31247 // indirect
-	google.golang.org/grpc v1.42.0
+	google.golang.org/grpc v1.51.0
 	gopkg.in/yaml.v2 v2.4.0
 )
